@@ -1,0 +1,43 @@
+.footermain-box {
+  /* height: 40vh; */
+  background: #000;
+  display: flex;
+  padding: 0px 40px;
+}
+
+.box {
+  /* border: 1px solid red; */
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  align-items: flex-start;
+  padding-left: 20px;
+
+  margin-top: 30px;
+}
+
+.bda-text {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.chota-text {
+  margin: 2px 0; /* Decrease the vertical margin */
+  font-size: 14px; /* Optional: Adjust the font size if needed */
+}
+
+.box1 {
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: white;
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+.box1 img {
+  /* width: 10%; */
+  margin-top: 40px;
+  border-radius: 10px;
+}

@@ -1,0 +1,44 @@
+.addProjectMainBox {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.addProjectMainBox h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+  font-family: "Arial", sans-serif;
+}
+
+.addProjectMainBox button {
+  background-color: black;
+  color: white;
+  width: 100px;
+  height: 2.7rem;
+  border-radius: 6px;
+}
+
+.input-boxes {
+  margin-bottom: 20px;
+}
+
+.input-boxes input[type="text"] {
+  width: 90%;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  border: 2px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+  font-family: "Arial", sans-serif;
+  transition: border-color 0.3s ease-in-out;
+}
+
+.input-boxes input[type="text"]:focus {
+  border-color: #007bff;
+  outline: none;
+}
