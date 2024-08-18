@@ -17,6 +17,8 @@ project is deployed here https://full-stack-assignment-frontend.vercel.app/
      ```bash
      npm start
      ```
+
+     backend is deployed here https://full-stack-assignment-blush.vercel.app
    
 4. **Frontend**
 
@@ -30,3 +32,5 @@ project is deployed here https://full-stack-assignment-frontend.vercel.app/
      ```bash
      npm start
      ```
+
+     frontend is deployed here https://full-stack-assignment-frontend.vercel.app/
