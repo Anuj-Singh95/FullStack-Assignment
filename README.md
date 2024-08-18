@@ -1,3 +1,5 @@
+project is deployed here https://full-stack-assignment-frontend.vercel.app/
+
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Anuj-Singh95/FullStack-Assignment
