@@ -18,7 +18,7 @@ app.use(express.json());
 app.use(require("./routes/activity"));
 
 mongoose
-  .connect("mongodb://127.0.0.1:27017/FullStackAssignment")
+  .connect("mongodb+srv://anujsinghjee1:o9JquRtaSE1808dK@cluster0.wbtvg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
   .then((data) => {
     console.log(`Mongodb Connected with Server : ${data.connection.host}`);
   })
